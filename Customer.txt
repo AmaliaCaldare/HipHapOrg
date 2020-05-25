@@ -1,0 +1,3 @@
+James:james@teacher.kea.dk
+Dora:dora@teacher.kea.dk
+Hardy:hardy@teacher.kea.dk

@@ -1,0 +1,10 @@
+001:Simonas:pass01:blabla1@stud.kea.dk:false
+002:Madalina:pass02:blabla2@stud.kea.dk:false
+003:Amalia:pass03:blabla3@stud.kea.dk:true
+004:Mary:pass04:mary@fake.stud.kea.dk:false
+005:Maria:pass05:maria@fake.stud.kea.dk:false
+006:Jakub:pass06:jakub@stud.kea.dk:false
+007:Anna:pass07:anna@stud.kea.dk:false
+008:Cosmin:pass08:cosmin@stud.kea.dk:false
+009:Cata:pass09:cata@stud.kea.dk:true
+010:Aaron:pass10:aaron@stud.kea.dk:true

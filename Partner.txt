@@ -1,0 +1,6 @@
+FoodSharing:Food:100
+McDonalds:Food:130
+Metalica:Music:200
+DIO:Music:250
+JackDaniels:Drinks:200
+Jameson:Drinks:250
